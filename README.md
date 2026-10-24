@@ -22,5 +22,5 @@
 ---
 
 ## 📬 Contact & Connect
-* **WhatsApp / Phone:** `+91 9343062265`
+* **Email:** `aastharawat47849@gmail.com`
 * **GitHub:** [@aastharawat47849-oss](https://github.com/aastharawat47849-oss)
